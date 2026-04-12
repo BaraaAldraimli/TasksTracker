@@ -6,4 +6,4 @@ people often forget their tasks, causing a problem managing their day activities
 
 
 #Solution:
-An interactive web-application that stores and views the tasks in a dashboard. making it easier for people to track their tasks to manage and organize the activities effectievely
+An interactive web-application that stores and views the tasks in a dashboard. making it easier for people to track their tasks to manage and organize the activities effectively
