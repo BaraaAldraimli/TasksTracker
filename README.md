@@ -8,3 +8,4 @@ the project idea is to make a user-friendly task tracker web-application that ma
 - delete tasks using the delete button.
 - checkbox for completed tasks.
 - edit button navigates to edit page.
+.
