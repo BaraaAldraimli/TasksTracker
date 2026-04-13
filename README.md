@@ -1,6 +1,7 @@
 # TasksTracker
 
 #Description
+
 the project idea is to make a user-friendly task tracker web-application that makes it easy for people to manage their activities.
 
 
